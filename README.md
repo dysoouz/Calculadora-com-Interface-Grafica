@@ -10,4 +10,4 @@
     <li>Click no botâo de igualdade para ter o resultado</li>
     <li>Click no botão C (botão vermelho) para recomeçar</li>
 </ol>
-<img src="Executavel/img/calculadora.png">
+<img src="https://github.com/dysoouz/Calculadora/blob/master/Executavel/img/calculadora.png" alt="Calculadora">
