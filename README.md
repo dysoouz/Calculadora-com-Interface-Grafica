@@ -7,7 +7,7 @@
     <li>Escolha o primeiro número desejado para o cálculo</li>
     <li>Escolha o tipo de cálculo(Soma, Subtração, Multiplicação, Divisão)</li>
     <li>Escolha o segundo número desejado para o cálculo</li>
-    <li>Click no botâo de igualdade para ter o resultado</li>
+    <li>Click no botão de igualdade para ter o resultado</li>
     <li>Click no botão C (botão vermelho) para recomeçar</li>
 </ol>
 <img src="https://github.com/dysoouz/Calculadora/blob/master/Executavel/img/calculadora.png" alt="Calculadora">
